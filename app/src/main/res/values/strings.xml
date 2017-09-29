@@ -1,0 +1,323 @@
+<resources>
+
+    <!--   <Available Task Attributes>-->
+    <string name="created_on">Created On</string>
+    <string name="deadline_date">Deadline</string>
+    <string name="progress">Progress</string>
+    <string name="priority">Priority</string>
+    <string name="status">Status</string>
+
+    <!--   <Available Task Attributes>-->
+
+
+    <!--   <Join Task>-->
+
+    <string name="join_task">Join Task</string>
+    <string name="description">Description</string>
+    <string name="department">Department</string>
+    <string name="message">Message</string>
+    <string name="join_task_button">Join Task</string>
+
+    <string name="job_statistics"> <u>Job Statistics</u> </string>
+
+    <!--String file for Task Management-->
+
+    <string name="my_daily_activities">My Daily Activities</string>
+    <string name="search_other_activities">Search Other Activities</string>
+    <string name="task_management">Task Management</string>
+    <string name="job_management">Job Management</string>
+    <string name="contacts">Contacts</string>
+    <string name="available_task">Available Task</string>
+    <string name="see_all">See All</string>
+    <string name="most_used_tasks">Most Used Tasks</string>
+
+    <!--String file for Task Management-->
+
+    <string name="app_name">JobTrack</string>
+
+    <string name="text_employee_id">Employee Id</string>
+    <string name="text_employee_name">Name</string>
+    <string name="text_employee_email">Email</string>
+    <string name="text_password">Password</string>
+    <string name="pager_title_shopping_lists">Shopping Lists</string>
+    <string name="pager_title_meals">Meals</string>
+    <string name="remove_item_option">Remove Item</string>
+    <string name="positive_button_create">Create</string>
+    <string name="position_button_cancel">Cancel</string>
+    <string name="text_from">From</string>
+    <string name="text_to">To</string>
+
+    <string name="title_activity_update_account">update</string>
+    <string name="text_you">You</string>
+
+    <string name="text_edit_profile">Edit profile</string>
+
+    <string name="text_change_password">Change Password</string>
+    <string name="text_set_password">Set or Forget Password</string>
+    <string name="text_current_password">Current Password</string>
+    <string name="text_new_password">New Password</string>
+    <string name="text_confirm_new_password">Confirm New Password</string>
+    <string name="button_ok">Ok</string>
+
+    <string name="advance_search">Advance Search</string>
+    <string name="text_task_title">Task Title</string>
+    <string name="text_job_title">Job Title</string>
+    <string name="text_task_owner">Task Owner</string>
+    <string name="text_job_owner">Job Owner</string>
+    <string name="text_task_given_date">Given Date</string>
+    <string name="text_task_est_date">EST. Date</string>
+    <string name="text_task_status">Status</string>
+    <string name="text_task_progress">Progress</string>
+    <string name="text_task_priority">Priority</string>
+
+    <string name="text_select_job">Select Job</string>
+    <string name="hint_enter_job_title">Please Select Job for this Task</string>
+    <string name="button_task_management">Task Management</string>
+    <string name="text_employee_gender">Gender</string>
+    <string name="text_employee_institute">Institute</string>
+    <string name="text_employee_department">Department</string>
+    <string name="text_employee_date_of_birth">Date of Birth</string>
+    <string name="text_employee_marital_status">Marital Status</string>
+    <string name="text_employee_blood_group">Blood Group</string>
+    <string name="text_employee_im">IM</string>
+    <string name="text_employee_religion">Religion</string>
+    <string name="text_employee_mobile">Mobile</string>
+    <string name="text_employee_office_phone">Office Phone</string>
+    <string name="text_task_Attribute">Attribute</string>
+
+    <!-- Activity Titles  -->
+    <string name="title_activity_create_account">Create Account</string>
+
+    <!-- Login and Create Account Screen  -->
+    <string name="text_dont_have_account">Don\'t have an account?</string>
+    <string name="text_already_have_account">Already have an account?</string>
+    <string name="button_create_account">Sign Up</string>
+    <string name="button_sign_in">Sign In</string>
+    <string name="button_signin_with_password">SIGN IN</string>
+    <string name="button_got_to_edit_user">Go to Profile Update</string>
+
+    <string name="hint_enter_email">Enter your email</string>
+    <string name="hint_enter_employee_id">Enter your User Id</string>
+    <string name="hint_enter_employeename">Enter your name</string>
+    <string name="hint_enter_password">Enter password</string>
+    <string name="hint_enter_date_of_birth">Select Your Date of Birth</string>
+    <string name="hint_enter_im">Enter Your IM</string>
+    <string name="hint_enter_mobile_number">Enter Your Mobile Number</string>
+    <string name="hint_enter_office_phone">Enter Your Office Phone</string>
+    <string name="hint_enter_task_title">Enter task Title</string>
+    <string name="text_task_description">Description</string>
+    <string name="text_job_description">Job Description</string>
+    <string name="hint_enter_task_description">Enter task Description</string>
+    <string name="hint_enter_job_description">Enter Job Description</string>
+    <string name="hint_enter_task_deadline">Select Task Deadline</string>
+    <string name="hint_enter_employee_designation">Please enter Designation</string>
+    <string name="hint_enter_employee_new_designation">Please enter new Designation</string>
+    <string name="text_task_date">Date</string>
+    <string name="text_task_dead_line">Deadline</string>
+    <string name="check_box_task_had_dead_line">This task has a dead line</string>
+    <string name="check_box_job_had_dead_line">This Job has a dead line</string>
+    <string name="hint_enter_task_dead">Select Task Dead</string>
+    <string name="hint_enter_job_dead">Select Job Dead</string>
+    <string name="text_task_Accesibility">Accesibility</string>
+    <string name="hint_enter_task_Accesibility">Select Task Accesibility</string>
+    <string name="hint_enter_job_Accesibility">Select Job Accesibility</string>
+    <string name="hint_enter_task_progress">Select Task Progress</string>
+    <string name="hint_enter_job_progress">Select Job Progress</string>
+    <string name="hint_enter_task_priority">Select Task Priority</string>
+    <string name="hint_enter_job_priority">Select Job Priority</string>
+    <string name="hint_enter_task_status">Select Task Status</string>
+    <string name="hint_enter_job_status">Select Job Status</string>
+    <string name="hint_select_task_department">Select Task Department</string>
+    <string name="hint_enter_task_department">Please Enter Task Department</string>
+    <string name="hint_enter_job_department">Please Enter Job Department</string>
+    <string name="text_task_assign_to">Assign to</string>
+    <string name="hint_enter_task_asign_to">Select Task Assign to</string>
+    <string name="text_task_role">Role</string>
+    <string name="hint_enter_task_role">Select Task Role</string>
+    <string name="task_activity_add_to_list">Add to List</string>
+    <string name="task_activity_remove_from_list">Remove from List</string>
+    <string name="save">Save</string>
+    <string name="back">Back</string>
+
+    <string name="button_upload_document_file">Upload File</string>
+    <string name="attach_more_file"><u>Attach more files?</u></string>
+    <!--Admin Activity -->
+    <string name="set_superior">Set Superior</string>
+    <string name="set_department">Set Department</string>
+    <string name="set_designation">Set Designation</string>
+    <string name="job_migration">Job Migration</string>
+    <string name="task_migration">Task Migration</string>
+
+    <string name="image_view_logo_image">Logo Image</string>
+
+    <string name="text_forget_password">Forgot Password?</string>
+
+
+    <string-array name="employee_gender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="employee_institute">
+        <item>Daffodil</item>
+        <item>DIU</item>
+        <item>DCL</item>
+    </string-array>
+
+    <string-array name="employee_department">
+        <item>CSE</item>
+        <item>EEE</item>
+        <item>SWE</item>
+        <item>English</item>
+        <item>IT</item>
+        <item>ETE</item>
+    </string-array>
+
+    <string-array name="employee_marital_status">
+        <item>Married</item>
+        <item>Single</item>
+        <item>divorces</item>
+    </string-array>
+
+    <string-array name="employee_blood_group">
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </string-array>
+
+    <string-array name="employee_religion">
+        <item>Islam</item>
+        <item>Hindu</item>
+    </string-array>
+    <string name="title_activity_tabed">TabedActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_settings_activity_tab">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+
+
+    <!--<Strings file for setting>-->
+    <string name="text_ecure_notification">e-Cure Notification</string>
+    <string name="text_jobtrack_notification">Job Track Notification</string>
+
+
+    <!-- <Strings file for job tracking list veiw>-->
+
+    <string name="text_set_supervisor">Set Supervisor</string>
+    <string name="txt_designation"></string>
+
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+
+    <string name="pref_title_ringtone">Ringtone</string>
+
+
+    <string-array name="employee_task_accessability">
+        <item>Public</item>
+        <item>Proctected</item>
+        <item>Private</item>
+    </string-array>
+
+    <string-array name="employee_task_progress">
+        <item>0</item>
+        <item>20</item>
+        <item>30</item>
+        <item>50</item>
+        <item>80</item>
+        <item>100</item>
+    </string-array>
+
+    <string-array name="employee_task_priority">
+        <item>Very Low</item>
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+        <item>Very High</item>
+    </string-array>
+
+    <string-array name="employee_task_status">
+        <item>Pending</item>
+        <item>Ongoing</item>
+        <item>Complete</item>
+        <item>Done</item>
+    </string-array>
+
+    <string-array name="employee_task_role">
+        <item>In-Charge</item>
+        <item>Member</item>
+    </string-array>
+
+    <string-array name="employee_job_title">
+        <item>Ecure</item>
+        <item>Student Portal</item>
+        <item>UNDP</item>
+    </string-array>
+    <string name="title_activity_main_drawer">MainDrawer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+</resources>
